@@ -1,5 +1,5 @@
 # Quantum_Fourier_Transfer
-Tutorial for Quantum Fourier Transfer
+Tutorial for Quantum Fourier Transfer (quantumpedia.uk)
 
 Welcome to our website dedicated to two of the most important concepts in quantum computing: the Quantum Fourier Transform (QFT) and Shor's algorithm for factoring large integers.
 
